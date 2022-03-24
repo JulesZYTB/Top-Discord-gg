@@ -1,40 +1,40 @@
 {
   "discord_client": {
-    "id": "xxxxxxxxxx",
-    "token": "xxxxxxxxxx",
-    "secret": "xxxxxxxxxx",
-    "prefix": "lb!"
+    "id": "904706996392046673",
+    "token": "OTA0NzA2OTk2MzkyMDQ2Njcz.YX_cDA.Tsyg3tW_kqjxvx4X8QfUizwXDB4",
+    "secret": "1swk1PBwERIgb0TVevwlmeCqbMkV4pSW",
+    "prefix": "!"
   },
   "web": {
-    "domain_with_protocol": "xxxxxxxxxx",
+    "domain_with_protocol": "https",
     "port": 5000,
     "ratelimit": 100,
     "recaptcha_v2": {
-      "site_key": "xxxxxxxxxx",
-      "secret_key": "xxxxxxxxxx"
+      "site_key": "",
+      "secret_key": ""
     }
   },
-  "mongo_url": "xxxxxxxxxx",
+  "mongo_url": "mongodb+srv://juleszz:juleszz@cluster0.c8het.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "server": {
-    "id": "xxxxxxxxxx",
-    "invite": "https://discord.gg/sQQFSnQhdt",
-    "like_log": "xxxxxxxxxx",
-    "botOwners": "xxxxxxxxxx",
-    "mod_log_id": "xxxxxxxxxx",
-    "website_logs": "xxxxxxxxxx",
-    "admin_user_ids": "xxxxxxxxxx",
+    "id": "834782198237364234",
+    "invite": "https://discord.gg/z7dBzygse4",
+    "like_log": "954441807675162645",
+    "botOwners": "934397877206261780","720679217880236082",
+    "mod_log_id": "954442099137343588",
+    "website_logs": "954441978731446353",
+    "admin_user_ids": "934397877206261780","720679217880236082",
     "role_ids": {
-      "bot": "xxxxxxxxxx",
-      "verified": "xxxxxxxxxx",
-      "unverified": "xxxxxxxxxx",
+      "bot": "954767745260597278",
+      "verified": "954767667821154354",
+      "unverified": "954767547998277642",
       "bot_verifier": "xxxxxxxxxx",
       "bot_developer": "xxxxxxxxxx",
       "cert_user": "xxxxxxxxxx",
-      "cert_bot": "xxxxxxxxxx"
+      "cert_bot": "954767911581524018"
     },
     "botreviewer": [
-      "user-id-1",
-      "user-id-2"
+      "904706996392046673",
+      ""
     ]
   },
   "bot_options": {
