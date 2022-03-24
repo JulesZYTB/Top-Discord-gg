@@ -1,8 +1,8 @@
 {
   "discord_client": {
     "id": "904706996392046673",
-    "token": "OTA0NzA2OTk2MzkyMDQ2Njcz.YX_cDA.Tsyg3tW_kqjxvx4X8QfUizwXDB4",
-    "secret": "1swk1PBwERIgb0TVevwlmeCqbMkV4pSW",
+    "token": "",
+    "secret": "",
     "prefix": "!"
   },
   "web": {
